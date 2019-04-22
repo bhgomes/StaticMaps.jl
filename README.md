@@ -1,4 +1,4 @@
-<div style="center">
+<div align="center">
 
 # StaticMaps.jl
 [![](https://img.shields.io/badge/docs-stable-blue.svg)](https://bhgomes.github.io/StaticMaps.jl/stable)
