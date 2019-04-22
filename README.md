@@ -4,8 +4,8 @@
 [![](https://img.shields.io/badge/docs-stable-blue.svg)](https://bhgomes.github.io/StaticMaps.jl/stable)
 [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://bhgomes.github.io/StaticMaps.jl/latest)
 [![Travis](https://travis-ci.com/bhgomes/StaticMasks.jl.svg?branch=master)](https://travis-ci.com/bhgomes/StaticMaps.jl)
-[![Coveralls](https://coveralls.io/repos/github/bhgomes/StaticMasks.jl/badge.svg?branch=master)](https://coveralls.io/github/bhgomes/StaticMaps.jl?branch=master)
-[![Maintainability](https://api.codeclimate.com/v1/badges/f83f0fd344df44b1564e/maintainability)](https://codeclimate.com/github/bhgomes/StaticMaps.jl/maintainability)
+[![Coveralls](https://coveralls.io/repos/github/bhgomes/StaticMaps.jl/badge.svg?branch=master)](https://coveralls.io/github/bhgomes/StaticMaps.jl?branch=master)
+[![Maintainability](https://api.codeclimate.com/v1/badges/a4c443fe9fea1f38eb73/maintainability)](https://codeclimate.com/github/bhgomes/StaticMaps.jl/maintainability)
 
 _Static Maps in Julia_
 
