@@ -1,0 +1,4 @@
+name = "StaticMasks"
+uuid = "b24fc4a4-64cc-11e9-1b8e-2f99d7bf9f81"
+authors = ["bhgomes <bhgomes.github@gmail.com>"]
+version = "0.1.0"
