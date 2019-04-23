@@ -2,3 +2,6 @@ name = "StaticMaps"
 uuid = "822ac802-650b-11e9-0ffa-69fdfb5ea484"
 authors = ["bhgomes <bhgomes.github@gmail.com>"]
 version = "0.1.0"
+
+[compat]
+julia = "0.7, 1"
